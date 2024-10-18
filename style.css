@@ -37,3 +37,11 @@ header{
     margin-top:25px;
     margin-left:100px;
 }
+
+#intro{
+    margin-top:40px;
+}
+.inall{
+    display: flex;
+    gap:40px;
+}
