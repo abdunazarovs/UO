@@ -82,3 +82,10 @@ header{
     border:inset;
     border: #E9672B;
 }
+.firstcard{
+    box-shadow: 0px 8px 8px 0px rgba(203, 198, 244, 1);
+}
+.fourcards{
+    display: flex;
+    gap:100px;
+}
