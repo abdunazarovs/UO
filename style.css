@@ -84,6 +84,11 @@ header{
 }
 .firstcard{
     box-shadow: 0px 8px 8px 0px rgba(203, 198, 244, 1);
+    text-align: center;
+    h4{
+        color:rgb(228, 107, 55);
+        
+    }
 }
 .fourcards{
     display: flex;
